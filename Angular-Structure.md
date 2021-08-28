@@ -46,6 +46,11 @@
 │   │       ├── posts.component.scss
 │   │       ├── posts.component.ts
 │   │       └── posts.module.ts
+│   ├── guards
+│   │   ├── auth.guard.spec.ts
+│   │   ├── auth.guard.ts
+│   │   ├── login.guard.spec.ts
+│   │   └── login.guard.ts
 │   ├── main
 │   │   ├── main.component.html
 │   │   ├── main.component.scss
